@@ -50,6 +50,3 @@ Your tasks:
 ---
 AUTHOR NAME:
 muhammadyasir119
-# ✍️ ✅ Commit Message
-```
-Add basic CLI to-do list application with add and view features
