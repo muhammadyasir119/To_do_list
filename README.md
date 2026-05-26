@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44d3c6ec-2b27-41ea-af45-dd998b3e8e7e" /># To_do_list
+# To_do_list
 A simple CLI-based to-do list application in Python using loops and lists.
 # 📋 To-Do List CLI
 
