@@ -1,2 +1,55 @@
-# To_do_list
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44d3c6ec-2b27-41ea-af45-dd998b3e8e7e" /># To_do_list
 A simple CLI-based to-do list application in Python using loops and lists.
+# 📋 To-Do List CLI
+
+A simple command-line To-Do List application built in Python. Users can add and view tasks using a menu-driven interface.
+
+---
+
+## 🚀 Features
+
+- Add tasks
+- View tasks
+- Simple menu system
+- Runs in a loop until exit
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+
+---
+
+## 📂 Project File
+
+- `todo_list.py`
+
+---
+
+## ▶️ How to Run
+
+1. Run the program:
+```bash
+python todo_list.py
+```
+EXAMPLE OUTPUT:
+--Menu--
+1 Add task
+2 View task
+3 Exit
+
+Enter choice: 1
+Enter task to add: Study Python
+Task added
+
+Enter choice: 2
+Your tasks:
+- Study Python
+
+---
+AUTHOR NAME:
+muhammadyasir119
+# ✍️ ✅ Commit Message
+```
+Add basic CLI to-do list application with add and view features
