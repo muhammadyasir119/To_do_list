@@ -9,10 +9,10 @@ A simple command-line To-Do List application built in Python. Users can add and 
 ## 🚀 Features
 
 - Add tasks
-- View tasks
-- Simple menu system
+- View tasks with numbering
+- Delete tasks
+- Menu-driven interface
 - Runs in a loop until exit
-
 ---
 
 ## 🛠️ Technologies Used
@@ -24,7 +24,7 @@ A simple command-line To-Do List application built in Python. Users can add and 
 ## 📂 Project File
 
 - `todo_list.py`
-
+- `todo_list_advanced.py`
 ---
 
 ## ▶️ How to Run
@@ -37,7 +37,8 @@ EXAMPLE OUTPUT:
 --Menu--
 1 Add task
 2 View task
-3 Exit
+3 Delete task
+4 Exit
 
 Enter choice: 1
 Enter task to add: Study Python
@@ -46,6 +47,15 @@ Task added
 Enter choice: 2
 Your tasks:
 - Study Python
+
+  
+- Enter choice: 3
+1 - Study Python
+Enter task number to delete: 1
+Removed: Study Python
+
+Enter choice: 4
+Goodbye 👋
 
 ---
 AUTHOR NAME:
